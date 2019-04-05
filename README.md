@@ -13,7 +13,7 @@
 npm install required as workaround for issue: https://github.com/JetBrains/kotlin-wrappers/issues/36
 
 ```
-npm install core-js
+npm install core-js@2.6.3
 ./gradlew js-app:run
 ```
 
